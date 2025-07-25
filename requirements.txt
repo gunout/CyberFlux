@@ -1,1 +1,4 @@
-pip install python-vlc pygame pillow requests
+python-vlc 
+pygame 
+pillow 
+requests
